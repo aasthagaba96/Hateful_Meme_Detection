@@ -1,0 +1,5 @@
+Dataset,Single-Task Accuracy,Joint MTL Accuracy
+Hateful Memes,0.58,0.586
+MAMI (Label),0.625,0.625
+MultiOFF,0.5926,0.6148
+MMHS150K,0.6585,0.6923
