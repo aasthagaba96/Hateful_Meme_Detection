@@ -22,3 +22,5 @@ TASKS = {
 }
 
 NUM_TASKS = len(TASKS)
+
+# This is basically to classify task
